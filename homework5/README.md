@@ -1,6 +1,11 @@
 # Homework \#5
 *python data types, conda environments, control flow*  
-**Fork this repo!!**
+
+
+## Problem 0
+Create your personal branch in this repo via github (i.e. you don't need the command line
+tools to do this). Give it whatever name you like. **Now, Fork this repo!!**. `git clone`
+your fork to your local machine. Complete the rest of these exercises on your machine.
 
 ## Problem 1 - `conda env`ironment
 - Create a new conda environment named `hmw5` and use python 3.5 (I know 3.7 is latest).
