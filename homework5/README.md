@@ -22,14 +22,14 @@ In other words, try to do these without the aid of your broswer or `docstrings`.
 ## Problem 3
 Using the conda environment from `Problem 1`, start a jupyter client-server application. Use
 this application to create a notebook named `homework5`. Within this notebook:
-1. Print all available magics available.
-2. Demonstrate understanding of **`line magics`** by using one to print the current working directory.
-3. Demonstrate understanding of **`cell magics`** by using one to print the current working directory.
-4. Create a list with the elements 'whiskey', 'tango', 'foxtrot' and call it names.
-5. Create a tuple with the elements 'happy', 'eager', 'sad' and call it adjectives.
-6. Use a `for` loop (or multiple for loops) to create all possible adjective-noun combinations (e.g. 'sad-tango').
-7. Using a new cell, copy code from 6. Modify the copy of the loop so that `sad-tango` is never printed
-8. Using a new cell, copy code from 6. Modify the copy of the loop so that `happy-foxtrot` triggers the looping to stop.
+1. Print all available magics available.  
+2. Demonstrate understanding of **`line magics`** by using one to print the current working directory.  
+3. Demonstrate understanding of **`cell magics`** by using one to print the current working directory.  
+4. Create a list with the elements 'whiskey', 'tango', 'foxtrot' and call it names.  
+5. Create a tuple with the elements 'happy', 'eager', 'sad' and call it adjectives.  
+6. Use a `for` loop (or multiple for loops) to create all possible adjective-noun combinations (e.g. 'sad-tango').  
+7. Using a new cell, copy code from 6. Modify the copy of the loop so that `sad-tango` is never printed.  
+8. Using a new cell, copy code from 6. Modify the copy of the loop so that `happy-foxtrot` triggers the looping to stop.  
 
 ## Problem 4
 1. Export your environment to a .yml file.
