@@ -9,15 +9,15 @@
 
 ## Problem 2 - `Closed Laptop`
 In other words, try to do these without the aid of your broswer or `docstrings`.
-1. Provide the expected output, if error, put "error".
-    a. len({1, 1, 1.0, 1j, 'hello'})
-    b. len((1, 1, 1.0, 1j, 'hello'))
-    c. len([1, 1, 1.0, 1j, 'hello'])
-    d. z = {1, 4.0, 'no'}; z[0]
-    e. z = (1, 4.0, 'no'); z[0] = 9
-    f. z = [1, 4.0, 'no']; z[0] = 9
-    g. (e) demonstrates what property of sets?
-    h. (f) demonstrates what property of lists?
+1. Provide the expected output, if error, put "error".  
+    a. len({1, 1, 1.0, 1j, 'hello'})  
+    b. len((1, 1, 1.0, 1j, 'hello'))  
+    c. len([1, 1, 1.0, 1j, 'hello'])  
+    d. z = {1, 4.0, 'no'}; z[0]  
+    e. z = (1, 4.0, 'no'); z[0] = 9  
+    f. z = [1, 4.0, 'no']; z[0] = 9  
+    g. (e) demonstrates what property of sets?  
+    h. (f) demonstrates what property of lists?  
     
 ## Problem 3
 Using the conda environment from `Problem 1`, start a jupyter client-server application. Use
