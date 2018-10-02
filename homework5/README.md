@@ -19,8 +19,8 @@ In other words, try to do these without the aid of your broswer or `docstrings`.
     b. len((1, 1, 1.0, 1j, 'hello')) = 5 
     c. len([1, 1, 1.0, 1j, 'hello']) = 5 
     d. z = {1, 4.0, 'no'}; z[0]      error, set has no index
-    e. z = (1, 4.0, 'no'); z[0] = 9  error, out of range
-    f. z = [1, 4.0, 'no']; z[0] = 9  error, out of range
+    e. z = (1, 4.0, 'no'); z[0] = 9  (9, 4.0, 'no')
+    f. z = [1, 4.0, 'no']; z[0] = 9  [9, 4.0, 'no']
     g. (e) demonstrates what property of sets?  
 	A set is an unordered collection of items, and every elements in the set is unique with no duplication and immutable. However, the set is mutable. We can add and remove items from it.
     h. (f) demonstrates what property of lists?  
