@@ -2,7 +2,7 @@ A) 3
 B) 5
 C) 5
 D) error, since set does not allow indexing.
-E) error, out of range
-F) error, out of range
+E) (9, 4.0, 'no')
+F) [9, 4.0, 'no']
 G) A set is an unordered collection of items, and every elements in the set is unique with no duplication and immutable. However, the set is mutable. We can add and remove items from it.
 H) list is a collection of ordered and changeable items. And it allows duplicate elements.
