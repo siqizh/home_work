@@ -15,15 +15,7 @@ your fork to your local machine. Complete the rest of these exercises on your ma
 ## Problem 2 - `Closed Laptop`
 In other words, try to do these without the aid of your broswer or `docstrings`.
 1. Provide the expected output, if error, put "error".  
-    a. len({1, 1, 1.0, 1j, 'hello'}) 3  
-    b. len((1, 1, 1.0, 1j, 'hello')) 5 
-    c. len([1, 1, 1.0, 1j, 'hello']) 5 
-    d. z = {1, 4.0, 'no'}; z[0]  error
-    e. z = (1, 4.0, 'no'); z[0] = 9  z=(9,4.0,'no')
-    f. z = [1, 4.0, 'no']; z[0] = 9  z=[9,4.0,'no']
-    g. (e) demonstrates what property of tuples?  It is a set of unordered collection of items within that evevy elements is unique with no duplication and immutable. 
-    h. (f) demonstrates what property of lists?  List is collection of ordered and changeable items which allows duplicate elements. 
-    
+
 ## Problem 3
 Using the conda environment from `Problem 1`, start a jupyter client-server application. Use
 this application to create a notebook named `homework5`. Within this notebook:
